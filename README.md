@@ -7,5 +7,5 @@
   <br>
   <br>
   <br>
- <img src="https://data.whicdn.com/images/305380579/original.gif" width="350" />
+ <img src="https://data.whicdn.com/images/305380579/original.gif" width="650" />
 </p>
